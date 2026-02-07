@@ -2,7 +2,7 @@
 - 👀 I’m interested in building software and learning new things
 - 🌱 I’m currently learning python, big data analysis and machine learning
 - 💞️ I’m looking to collaborate on data analysis
-- 📫 How to reach me : LinkedIn via https://nvarma.com/
+- 📫 How to reach me : LinkedIn via https://www.nvarma.com/
 
 <!---
 navinvarma/navinvarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
